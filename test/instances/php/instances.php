@@ -18,8 +18,6 @@ $instance['test'] = array_merge($instance['test'], array(
         'options.txt',
         'optionsof.txt'
     ),
-    "backgroundUrl" => "ldosweb/instances/imagen/asd.png",
-    "avatarUrl" => "ldosweb/instances/imagen/avatar.png",
 
     "whitelist" => array(),
     "whitelistActive" => false,
